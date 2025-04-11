@@ -39,8 +39,8 @@ Feel free to fork this repo, raise issues, or submit pull requests if you have s
 
 ## 📧 Contact
 
-For any queries or feedback, reach out at: [Your Email]  
-GitHub: [Your GitHub profile link]
+For any queries or feedback, reach out at: [aniljadhav8412@gmail.com]  
+GitHub: (https://github.com/AnilJadhavProgrammer/)
 
 ---
 
