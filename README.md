@@ -26,9 +26,6 @@ This Power BI Dashboard provides a comprehensive analysis of sales and profit da
 - Identify high and low-profit products.
 - Make informed decisions for inventory and marketing strategies.
 
-## 📷 Dashboard Preview
-
-> *(Include a screenshot of your dashboard here – recommended for better visualization)*
 
 ## 📦 How to Use
 
